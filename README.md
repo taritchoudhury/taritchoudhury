@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/taritchoudhury)
+- [LinkedIn](www.linkedin.com/in/tarit-choudhury)
 - Email: taritchoudhury1@gmail.com
 <!--
 **taritchoudhury/taritchoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
