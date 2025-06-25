@@ -1,5 +1,30 @@
-## Hi there 👋
 
+# 👋 Hi, I'm Tarit Choudhury
+
+🚀 Growth Strategist | Tech + Sales Enthusiast  
+🔍 Exploring AI and Salesforce | Building in Public  
+📈 Currently scaling GTM strategies at MathCo  
+🧠 Past: IP & Tech Consulting | SaaS | EdTech
+
+---
+
+### 🧠 What I’m Learning:
+- 🤖 Generative AI & Prompt Engineering
+- ☁️ Cloud Computing (AWS/GCP)
+- 🛠️ Salesforce (Admin + Sales Cloud)
+
+---
+
+### 📌 Projects I'm Planning:
+- ✍️ AI Prompt Library (Coming Soon)
+- 🔗 Sales Playbook + CRM Best Practices
+- 📊 Cloud-based lead gen tools
+
+---
+
+### 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/taritchoudhury)
+- Email: taritchoudhury1@gmail.com
 <!--
 **taritchoudhury/taritchoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
